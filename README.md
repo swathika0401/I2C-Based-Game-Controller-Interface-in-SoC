@@ -117,6 +117,6 @@ Electronics and Communication Engineering (ECE)
 
 VLSI Design | RTL Design | Embedded Systems | SoC Design
 
-GitHub: https://github.com/swathika0401
+GitHub: https://github.com/swathika0401/I2C-Based-Game-Controller-Interface-in-SoC
 
 
