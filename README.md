@@ -24,7 +24,6 @@ The system consists of:
 ## Results
 The design was successfully simulated and synthesized in Xilinx Vivado. Communication between the I2C Master and Controller Slave was verified through waveform analysis, demonstrating reliable button-state transfer and protocol-compliant operation.
 
-
+## Author
 V M Swathika
-Electronics and Communication Engineering
-Cambridge Institute of Technology
+
